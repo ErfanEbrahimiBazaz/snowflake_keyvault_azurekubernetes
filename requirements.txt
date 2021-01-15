@@ -1,0 +1,3 @@
+azure-keyvault-secrets
+azure-identity
+snowflake-connector-python
